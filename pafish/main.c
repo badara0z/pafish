@@ -15,6 +15,10 @@
 #include "vmware.h"
 #include "qemu.h"
 
+//
+// first commit
+//
+
 /*
   Pafish (Paranoid fish)
   
